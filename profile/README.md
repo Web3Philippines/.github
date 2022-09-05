@@ -1,6 +1,6 @@
 # GM, Welcome to Web3 Philippines! 🎓💖🌿
 
-[![banner](image/banner.jpg)](https://web3philippines.org)
+[![banner](banner.jpg)](https://web3philippines.org)
 
 Filipino-led community, helping Filipinos to build in Web3 space by providing free access to Web3 education, making us the **first** and **original** Web3 community in the country. 💪
 
